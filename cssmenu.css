@@ -1283,6 +1283,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 	background-color: aliceblue;
 	height: 700px;
 	width: 1330px;
+  overflow-y: hidden;
   
 	}
 
@@ -1291,6 +1292,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     .froyobody {
       width: auto;
       height: inherit;
+      overflow-y: hidden;
       }
   }
 
@@ -1425,6 +1427,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
           .flex-container {
 
             flex-direction:row;
+            overflow-y: hidden;
             
      }
            }
