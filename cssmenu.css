@@ -1295,15 +1295,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 	  
  }
 }
-@media only screen and (min-width: 700px) {
-  .froyobody {
-    width: auto;
-	  height: inherit;
-    
-    
-	  
- }
-}
+
 
 .flex-container {
             display: flex;
