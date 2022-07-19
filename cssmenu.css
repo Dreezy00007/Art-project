@@ -1421,6 +1421,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
            @media only screen and (min-width: 500px) {
             .flex-container {
               flex-direction:row;
+             -ms-flex-align: center;
               }
           }
 
