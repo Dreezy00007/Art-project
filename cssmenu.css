@@ -1418,12 +1418,17 @@ border: 1px solid rgba(255, 255, 255, 0.3);
           flex-direction: column;
       }
            }
+           @media only screen and (min-width: 500px) {
+            .flex-container {
+              flex-direction:row;
+              }
+          }
 
            @media  (min-width: 800px) {
           .flex-container {
 
             flex-direction:row;
-            float: left;
+            
      }
            }
 
