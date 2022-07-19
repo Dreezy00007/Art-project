@@ -1518,7 +1518,7 @@ div.footerCopy{
   footer{
     min-height: auto;
     position: relative;
-    top: 500px;
+    top: 800px;
   }
   .widgetFooter:not(:nth-of-type(2)){
     width: 100%;
